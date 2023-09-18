@@ -16,6 +16,6 @@ const person = {
     firstName: "Roxanna",
     lastName : "Torres",
     fullName : function() {
-      return this.firstName + " " + this.lastName;
+      return this.firstName + " person " + this.lastName;
     }
   };
